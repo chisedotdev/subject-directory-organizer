@@ -85,7 +85,7 @@ int main()
 
 	std::vector<std::string> subjects = getSubjectNames(file_path);
 	if(number_of_subjects > 0) {
-		std::cout << "Names of subject have been found. Proceeding to next step." << '\n';
+		std::cout << "Names of subject have been found. Proceeding to the next step." << '\n';
 		
 		createDirectories(subjects, custom_path, number_of_subjects);
 
