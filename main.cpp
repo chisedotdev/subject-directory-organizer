@@ -27,7 +27,6 @@ std::vector<std::string> getSubjectNames(std::string file_path)
 {
 	std::vector<std::string> subjects{};
 
-	// Open file
 	std::ifstream file(file_path);
 
 	if(file.is_open()) {
@@ -64,7 +63,7 @@ void createDirectories(std::vector<std::string> subjects, std::string custom_pat
 
 int main()
 {
-	std::string custom_path{};
+    std::string custom_path{};
     std::cout << "Enter custom path (e.g., C:\\Users\\username\\Desktop): ";
     std::getline(std::cin, custom_path);
 
