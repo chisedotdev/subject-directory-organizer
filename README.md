@@ -1,7 +1,7 @@
-# Directory Creation Program
+# Subject Directory Organizer
 
 ## Overview
-The Directory Creation Program is a C++ utility designed to automate the process of creating directories and subdirectories based on a list of subjects provided in a text file. It is particularly useful for organizing academic materials, such as notes, assignments, projects, and quizzes, into structured folders.
+The Subject Directory Organizer is a C++ utility designed to automate the process of creating directories and subdirectories based on a list of subjects provided in a text file. It is particularly useful for organizing academic materials, such as notes, assignments, projects, and quizzes, into structured folders.
 
 ### Features:
 - **Automatic Directory Creation**: Quickly generate directories and subdirectories with predefined folder structures for each subject.
