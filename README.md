@@ -28,7 +28,8 @@ The Subject Directory Organizer is a C++ utility designed to automate the proces
 - **C++ Compiler**: Ensure you have a C++ compiler installed on your system to compile and run the program.
 
 ## Example
-Suppose you have a file named `subject_names.txt` containing the following subject names:
+Suppose you have a file named `subject_names.txt` containing the following subject names, with each name on a separate line:
+
 Mathematics
 Physics
 Chemistry
